@@ -1,0 +1,7 @@
+echo "# Holistic-approach" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Chelley-37/Holistic-approach.git
+git push -u origin main
